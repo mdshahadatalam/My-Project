@@ -51,3 +51,12 @@
   border: 2px solid black;
   border-radius: 10px;
 }
+.com-image:hover{
+  background-color: #bbb7b6;
+}
+.account-image{
+  max-width: 40px;
+}
+.footer-part{
+  background-color: #033b74;
+}
